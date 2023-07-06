@@ -25,5 +25,8 @@
             "title": "Title5",
             "summary": "Summary5"
         }
-    ]
+    ],
+    "meta": {
+        "count": "5"
+    }
 }
